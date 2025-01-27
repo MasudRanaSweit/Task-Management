@@ -1,0 +1,5 @@
+# SQLite File
+db.sqlite3
+
+# Cache Files
+__pycache__/
