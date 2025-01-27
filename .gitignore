@@ -4,6 +4,3 @@ env
 
 # IDE Files
 .vscode
-
-# SQLite File
-db.sqlite3
